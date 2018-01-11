@@ -93,11 +93,7 @@
     {
       "path_to_root": "samples",
       "url": "https://github.com/dotnet/docs-samples",
-      "branch": "master",
-      "branch_mapping": 
-      {
-      	"live": "live"
-      }
+      "branch": "master"
     }
   ],
   "dependent_packages": [
