@@ -128,8 +128,7 @@
       "_zip/vs.140.zip",
       "_zip/office15.zip",
       "_zip/missingapi.yml",
-      "_zip/msdnsmallset.yml",
-      "_zip/roslyn.yml"
+      "_zip/msdnsmallset.yml"
     ],
     "lruSize": 0
   }
