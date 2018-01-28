@@ -19,6 +19,6 @@ public class Example
    }
 }
 // The example displays output like the following:
-//       Hello from thread 'Main'.
 //       Hello from taskA.
+//       Hello from thread 'Main'.
 // </Snippet2>
